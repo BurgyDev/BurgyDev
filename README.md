@@ -1,125 +1,33 @@
-# Mike Codeur
-I'm Mike from France, living in Bali 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React. 
-
-<!--
-**MikeCodeur/MikeCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Actually:
-
-- 🔭 I’m currently working on a new [Online Course][courses] ...
-- 🌱 I’m currently learning amazing things ...
-- 👯 I help people to be programmers and feelancers ...
-- ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
-- 📫 How to reach me: Instagram or email
-
-## My 100% online React Bootcamp
-
- <strong>
-    3 months to be a really good React Programmer
-  </strong>
-  <p>
-    Be a Master in React by building amazing projects
-  </p>
-
-  <a href="https://go.mikecodeur.com/react-mastery">
-    <img 
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/courses/react-mastery.png"
-    />
-  </a>
- 
-  <a href="https://go.mikecodeur.com/react-mastery" >
-    <img width="100"
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
-    />
-  </a>
+[![MasterHead](https://cdn.discordapp.com/attachments/907911206759723008/1001769790492385401/Banniere.jpg)](http://sparklife-rp.fr/)
+<h1 align="center">Hi 👋, I'm BurgyDev</h1>
+<h3 align="center">I am Web developer, Fivem as well as Graphic Designer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-### Connect with me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BurgerDevWFG&label=Profile%20views&color=0e75b6&style=flat" alt="BurgerDevWFG" /> </p>
 
-[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
+- 🔭 I’m currently working on **a Wiki Fivem website**
 
-### Languages and Tools:
+- 🌱 I’m currently learning progress in **PHP, MySQL and React**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+- 📫 How to reach me **burgydeveloppement@gmail.com**
 
 
-[<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />][youtubeplaylist]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+[![BurgyDev GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BurgerDevWFG&&theme=xcode)](https://github.com/BurgerDevWFG)
 
-<br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BurgerDevWFG&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BurgerDevWFG" /></p>
 
-### My daily routine :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BurgerDevWFG&show_icons=true&locale=en&theme=tokyonight" alt="BurgerDevWFG" /></p>
 
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
-
-### 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-2. 🗣 Commented on [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-3. ❗️ Opened issue [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-4. 💪 Opened PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-5. 🎉 Merged PR [#9](https://github.com/MikeCodeur/react-hooks-avances/pull/9) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
-<!--END_SECTION:activity-->
-
-### ⭐ GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCodeur&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📺 Last Youtube:
-
-<!-- YOUTUBE:START -->
-- [Le Cable Management - Zéro câble](https://www.youtube.com/watch?v=th01v6yU4R4)
-- [Combien gagne un développeur freelance ?](https://www.youtube.com/watch?v=E_p2lfEYviQ)
-- [5 extensions Chrome pour développeur Front End](https://www.youtube.com/watch?v=xnsFNl2v2ZI)
-- [5 thèmes tendances pour VSCODE](https://www.youtube.com/watch?v=HiHzwYiyNCA)
-- [Les E-SIM, une solution pour les devs nomades ?](https://www.youtube.com/watch?v=v0TE7Bq4h34)
-<!-- YOUTUBE:END -->
-
-<details>
-  <summary>📒 Latest blog content</summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [Le Cable Management – Zéro câble](https://www.mikecodeur.com/2022/07/22/le-cable-management-zero-cable/)
-- [Combien gagne un développeur freelance ?](https://www.mikecodeur.com/2022/07/20/combien-gagne-un-developpeur-freelance/)
-- [5 extensions Chrome pour développeur Front End](https://www.mikecodeur.com/2022/07/18/5-extensions-chrome-pour-developpeur-front-end/)
-- [5 thèmes tendances pour VSCODE](https://www.mikecodeur.com/2022/07/15/5-themes-tendances-pour-vscode/)
-- [Les E-SIM, une solution pour les devs nomades ?](https://www.mikecodeur.com/2022/07/13/les-e-sim-une-solution-pour-les-devs-nomades/)
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-[courses]: https://formations.mikecodeur.com
-[website]: https://go.mikecodeur.com/blog
-[insta]: https://go.mikecodeur.com/instagram
-[Youtube]: https://go.mikecodeur.com/youtube
-[youtubeplaylist]: https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BurgerDevWFG&&theme=tokyonight" alt="BurgerDevWFG" /></p>
