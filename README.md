@@ -26,8 +26,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[![BurgyDev GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BurgyDev&&theme=xcode)](https://github.com/BurgerDevWFG)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BurgyDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BurgerDevWFG" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BurgyDev&show_icons=true&locale=en&theme=tokyonight" alt="BurgerDevWFG" /></p>
