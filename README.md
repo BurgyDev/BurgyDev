@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/907911206759723008/1001769790492385401/Banniere.jpg)](http://sparklife-rp.fr/)
 <h1 align="center">Hi 👋, I'm BurgyDev</h1>
-<h3 align="center">I am Web developer, Fivem as well as Graphic Designer</h3>
+<h3 align="center">I am Web developer, Fivem as well as Motion Designer and Graphic Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
