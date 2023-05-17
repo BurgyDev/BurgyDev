@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a ZendyCloud compagny**
 
-- 🌱 I’m currently learning progress in **PHP, MySQL and React**
+- 🌱 I’m currently learning progress in **React, Next & Vue.js**
 
 - 🌱 I am also the founder of Wiki Fivem
 
