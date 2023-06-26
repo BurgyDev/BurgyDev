@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Weelyt Agency**
 
-- 🌱 I’m currently learning progress in **React, Next & Vue.js**
+- 🌱 I’m currently learning progress in **React, Laravel & Vue.js**
 
 - 🌱 I am also the founder of Wiki Fivem
 
