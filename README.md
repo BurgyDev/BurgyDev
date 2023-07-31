@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning progress in **React, Laravel & Vue.js**
 
-- 🌱 I am also the founder of Wiki Fivem
-
 - 📫 How to reach me **burgydeveloppement@gmail.com**
 
 
