@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://i.goopics.net/d5sgjg.jpg)" alt="GitHub Banner" width="100%" />
+<img src="https://i.goopics.net/d5sgjg.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Burgy, a French Web Developer & Entrepreneur 👋🏼:
 🛜 Currently working on my own webpage<br>👨🏼‍🎓 Graduated as a Web Developer & Digital Project Manager<br>👨🏼‍💻 Working in the web and airsoft field for 5 years
