@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a French Web Developer 👋🏼:
-🛜 Currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 Graduated as a Web Developer & Digital Project Manager<br>👨🏼‍💻 Working in the web and airsoft field for 5 years
+# Hello World!, I'm Burgy, a French Web Developer & Entrepreneur 👋🏼:
+🛜 Currently working on my own webpage<br>👨🏼‍🎓 Graduated as a Web Developer & Digital Project Manager<br>👨🏼‍💻 Working in the web and airsoft field for 5 years
 
 
 # 💻 Tech Stack:
