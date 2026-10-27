@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.goopics.net/d5sgjg.jpg" alt="GitHub Banner" width="100%" />
-
 <!-- animated contribution graph: real data, cells pop in one by one
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
@@ -53,7 +51,7 @@
 <td align="center">
 <b>👕 No Legend Alone</b><br>
 <sub>Streetwear brand</sub><br><br>
-<img src="https://img.shields.io/badge/coming_soon-0d1117?style=for-the-badge&logo=hackthebox&logoColor=7d8590" alt="coming soon" />
+<a href="https://no-legend-alone.com"><img src="https://img.shields.io/badge/no--legend--alone.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="no-legend-alone.com" /></a>
 </td>
 </tr>
 <tr>
