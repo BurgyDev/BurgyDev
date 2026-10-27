@@ -73,7 +73,7 @@
 <h3><code>burgy@github ~ $ ./links.sh</code></h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-mathys__lesueur-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathys_lesueur)
-[![Discord](https://img.shields.io/badge/Discord-Airsoft_Corp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6VPf5QAwd2)
+<img src="https://img.shields.io/badge/Discord-cap__airsoft-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: cap_airsoft" title="Discord: cap_airsoft" />
 
 <br>
 
